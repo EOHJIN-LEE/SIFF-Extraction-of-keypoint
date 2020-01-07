@@ -1,0 +1,15 @@
+﻿  eeee.cpp
+c:\users\direc\desktop\했던 과제들\컴퓨터비전-특징점 추출\report2\opencvcv\eeee.cpp(43): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\컴퓨터비전-특징점 추출\report2\opencvcv\eeee.cpp(227): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+c:\users\direc\desktop\했던 과제들\컴퓨터비전-특징점 추출\report2\opencvcv\eeee.cpp(227): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\컴퓨터비전-특징점 추출\report2\opencvcv\eeee.cpp(234): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+c:\users\direc\desktop\했던 과제들\컴퓨터비전-특징점 추출\report2\opencvcv\eeee.cpp(234): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  opencvcv.vcxproj -> C:\Users\direc\Desktop\했던 과제들\컴퓨터비전-특징점 추출\report2\x64\Debug\opencvcv.exe
