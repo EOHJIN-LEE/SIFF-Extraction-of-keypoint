@@ -4,7 +4,7 @@ Computer-Vision-Extraction-of-keypoint
 Description
 ===========
 
-This code is a C-language implementation of SIFT. 
+This code is a C-language implementation of SIFT for Extraction of keypoint. 
 ----------------------------------------------
 There are two source files.
 ---------------------------------------------
