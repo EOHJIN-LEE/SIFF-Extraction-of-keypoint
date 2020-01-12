@@ -35,5 +35,5 @@ octave range to -1,0,1
 <img width="700" src="https://user-images.githubusercontent.com/44941601/71882370-b245a780-3177-11ea-8f15-f1551236a730.jpg">
 <hr/>  
 
-VS2017  
-Programs written with C
+VS2017, OpenCV  
+
