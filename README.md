@@ -15,7 +15,7 @@ The other one was octave range to -1,0,1.
   
 <hr/>  
 
-  Step
+  Project Solution Design
   --------
 
 1. Create scale-space from input image
