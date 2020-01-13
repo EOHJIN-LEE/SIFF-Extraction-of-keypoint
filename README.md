@@ -13,6 +13,19 @@ One was was octave range to 0,1.
 The other one was octave range to -1,0,1.
 ---------------------------------------------------------------
   
+<hr/>    
+  Step
+  --------
+
+1. Create scale-space from input image
+
+2. Creating DoG Channels in Scale-space
+
+3. Find feature points using DoG channels
+
+4. Display the found feature points (scale by circle radius)
+
+
 <hr/>   
   
 Original picture  
