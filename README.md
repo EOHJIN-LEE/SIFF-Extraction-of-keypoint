@@ -13,7 +13,8 @@ One was was octave range to 0,1.
 The other one was octave range to -1,0,1.
 ---------------------------------------------------------------
   
-<hr/>    
+<hr/>  
+
   Step
   --------
 
